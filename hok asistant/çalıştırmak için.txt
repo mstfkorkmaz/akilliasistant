@@ -1,3 +1,0 @@
-hocam imported dosyasına pip install -r kaynak.txt yaparsak tğm modüller yüklenir
-ardından debug yaparak çalıştırabilirsiniz
- 
